@@ -1,3 +1,5 @@
+# Sobre nosotros
+En **TSINTALAB**, somos una empresa dedicada a la intersección de tecnología y arquitectura. Nuestro compromiso con la calidad y la innovación se refleja tanto en nuestros proyectos como en nuestra oferta académica. Nos especializamos en brindar servicios de excelencia en diseño arquitectónico y soluciones tecnológicas avanzadas.
 
 # Misión 
 En **TSINTALAB**, nos comprometemos a brindar servicios de excelencia en tecnología y arquitectura. Ofrecemos consultorías especializadas y cursos formativos de alta calidad, diseñados para satisfacer las necesidades de nuestros clientes y capacitar a profesionales con las habilidades más avanzadas. Nuestro objetivo es ser líderes en innovación y educación, proporcionando soluciones integrales que impulsen el desarrollo y éxito de nuestros clientes en el ámbito tecnológico y arquitectónico.
